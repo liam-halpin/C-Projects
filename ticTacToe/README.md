@@ -10,7 +10,6 @@
 #### Sample Output:
 
 <pre><code>
-Sample win output:
 ___________________
 |     |     |     |
 |  X  |  O  |  X  |
